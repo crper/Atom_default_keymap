@@ -1,9 +1,9 @@
 # Atom_default_keymap
 Atom编辑器快捷键汉化！！！！
 
----
+## 快捷键大全
 
-#File【文件】
+### File【文件】
 
 |快捷键|英文|中文|作用|
 |:--:|:--:|:--:|:--:|
@@ -19,10 +19,10 @@ Atom编辑器快捷键汉化！！！！
 |ctrl+shift+w|Close Window|退出编辑器|如中文所示，关闭Atom|
 
 
----
 
 
-#Edit【编辑】
+
+### Edit【编辑】
 
 |快捷键|英文|中文|作用|
 |:--:|:--:|:--:|:--:|
@@ -54,9 +54,8 @@ Atom编辑器快捷键汉化！！！！
 |ctrl+f2|Jump to Previour Bookmark|跳到上一个标签位置|如中文所示|
 
 
----
 
-#View【视图】
+### View【视图】
 
 |快捷键|英文|中文|作用|
 |:--:|:--:|:--:|:--:|
@@ -68,13 +67,11 @@ Atom编辑器快捷键汉化！！！！
 |ctrl+shift+-|Decrease Font Size|减小编辑窗口字体字号|如中文所示|
 |ctrl+0|Resset Font Size|重置字体字号|恢复默认大小|
 |*ctrl+alt+O|Toggle Symbols-Tree-View|文件索引|这个是插件的|
-|ctrl+ \ |Toggle Tree View|是否展开目录树|执行这个默认会聚焦侧边栏|
+|ctrl+\ |Toggle Tree View|是否展开目录树|执行这个默认会聚焦侧边栏|
 |ctrl+shift+p|Toggle Command Plaette|打开全局命令片段|最强大的功能|
 
 
----
-
-#Selection【选择】
+### Selection【选择】
 
 |快捷键|英文|中文|作用|
 |:--:|:--:|:--:|:--:|
@@ -91,8 +88,8 @@ Atom编辑器快捷键汉化！！！！
 |ctrl+alt+m|Select inside Brackets|选定括号内内容|就是括号，或者标签内的内容|
 
 
----
-#Find【搜索】
+
+### Find【搜索】
 
 |快捷键|英文|中文|作用|
 |:--:|:--:|:--:|:--:|
@@ -108,11 +105,10 @@ Atom编辑器快捷键汉化！！！！
 |ctrl+shift+b|Find Modifiled File|查询编辑的文件|没反应。。|
 
 
----
-
-#core[内置快捷键]
+### core[内置快捷键]
 |快捷键|英文|中文|作用|
 |:--:|:--:|:--:|:--:|:--:|
 |ctrl+r|Toggle File Symbols|文件内符号索引|很方便跳转，试用|
 
 >内置的快捷键实在太多，等有空再更新。这次只更新编辑器菜单栏区域快捷键
+
